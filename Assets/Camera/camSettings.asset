@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cec87ff3d184f4e4495c92f31f50b9f8, type: 3}
+  m_Name: camSettings
+  m_EditorClassIdentifier: 
+  UpdateMode: 2
+  autoCalculateRightAxis: 0
+  AddCorrectionFromScreenRatioDelta: 0
+  UseLocalTargetMode: 0
+  UseCustomAxis: 0
+  right: {x: 0, y: 0, z: 0}
+  up: {x: 0, y: 0, z: 0}
+  fwd: {x: 0, y: 0, z: 0}
+  PositionSmoothness: 0.1
+  OrientationSmoothness: 0.1
+  CoordSystem: 0
+  offset: {x: 0, y: 0, z: -10}
+  radius: 10
+  azimut: 45
+  polar: 0
+  sphericOffset: {x: 0, y: 0, z: 0}
+  UseOrientation: 1
+  UpdateOrientation: 1
+  UsePositionAngles: 1
+  orientationAzimut: 0
+  orientationPolar: 0
+  LockXAxis: 0
+  useXLimits: 0
+  XLimits: {x: 0, y: 0}
+  LockYAxis: 0
+  useYLimits: 0
+  YLimits: {x: 0, y: 0}
+  LockZAxis: 0
+  useZLimits: 0
+  ZLimits: {x: 0, y: 0}

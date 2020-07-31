@@ -1,0 +1,6 @@
+*.mov -delta
+*.ogg -delta
+*.ogv -delta
+*.jpg -delta
+*.png -delta
+*.mp4 -delta
